@@ -6,6 +6,7 @@ from sklearn.preprocessing import LabelBinarizer
 
 import numpy as np
 
+
 def check(vectorizer, corpus, query, num, type, top_num=100, p=True):
 	corpus.append(query)
 	matrix = vectorizer.fit_transform(corpus)
@@ -27,15 +28,23 @@ def check(vectorizer, corpus, query, num, type, top_num=100, p=True):
 
 	return top_cosine, top_euc#sim_cosine, sim_euc
 
-def eval(results, cos, euc, type, p=False):
+def eval(results, cos, euc, cos_bin, euc_bin, type, p=False):
 	cos_truePos = 0
 	euc_truePos = 0
+	bin_cos_true = 0
+	bin_euc_true = 0
 	for i in cos:
-		if i in results:
+		if i+1 in results:
 			cos_truePos += 1
 	for i in euc:
-		if i in results:
+		if i+1 in results:
 			euc_truePos += 1
+	for i in cos_bin:
+		if i in results:
+			bin_cos_true += 1
+	for i in euc_bin:
+		if i in results:
+			bin_euc_true += 1
 
 	cos_pre = cos_truePos/len(cos)
 	cos_rec = cos_truePos/len(results)
@@ -54,13 +63,35 @@ def eval(results, cos, euc, type, p=False):
 	except:
 		pass
 
+	cos_bin_pre = bin_euc_true / (len(cos_bin))
+	cos_bin_rec = bin_euc_true / len(results)
+	cos_bin_f = 0
+	try:
+		cos_bin_f = (2 * cos_bin_pre * cos_bin_rec) / (cos_bin_rec + cos_bin_pre)
+	except:
+		pass
+
+	euc_bin_pre = bin_euc_true / (len(euc_bin))
+	euc_bin_rec = bin_euc_true / len(results)
+	euc_bin_f = 0
+	try:
+		euc_bin_f = (2 * euc_bin_pre * euc_bin_rec) / (euc_bin_rec + euc_bin_pre)
+	except:
+		pass
+
 	d = {
 		"cosine_pre": cos_pre,
 		"cosine_rec": cos_rec,
 		"cosine_f": cos_f,
 		"euclid_pre": euc_pre,
 		"euclid_rec": euc_rec,
-		"euclid_f": euc_f
+		"euclid_f": euc_f,
+		"cos_bin_pre": cos_bin_pre,
+		"cos_bin_rec": cos_bin_rec,
+		"cos_bin_f" : cos_bin_f,
+		"euc_bin_pre": euc_bin_pre,
+		"euc_bin_rec": euc_bin_rec,
+		"euc_bin_f" : euc_bin_f
 	}
 
 	if p:
@@ -104,43 +135,60 @@ for i in range(len(results)):
 
 # init vectorizer
 tfidf_vectorizer = TfidfVectorizer()
+tfidf_vectorizer_binary = TfidfVectorizer(binary=True)
 puretf_vectorizer = CountVectorizer()
+puretf_vectorizer_binary = CountVectorizer(binary=True)
 
 # TF-IDF
 tfidf_cosine = []
+tfidf_cosine_bin = []
 tfidf_euc = []
+tfidf_euc_bin = []
 print("   ---   Starting querries TF-IDF   ---")
-for i in range(20):#len(queries)):
+for i in range(len(queries)):
 	cos, euc = check(tfidf_vectorizer, corpus, queries[i], i+1, "TF-IDF", top_num=10, p=False)
+	bin_cos, bin_euc = check(tfidf_vectorizer_binary, corpus, queries[i], i+1, "TF-IDF", top_num=10, p=False)
 	tfidf_cosine.append(cos)
 	tfidf_euc.append(euc)
+	tfidf_cosine_bin.append(bin_cos)
+	tfidf_euc_bin.append(bin_euc)
 print("   ---   Ended   ---")
+
 
 print("   ---   Starting querries Pure TF   ---")
 # Pure TF
 pure_cosine = []
 pure_euc = []
-for i in range(10):#len(queries)):
-	cos, euc = check(puretf_vectorizer, corpus, queries[i], i+1, "Pure TF", top_num=1000, p=False)
+pure_cosine_bin = []
+pure_euc_bin = []
+for i in range(len(queries)):
+	cos, euc = check(puretf_vectorizer, corpus, queries[i], i+1, "Pure TF", top_num=10, p=False)
+	bin_cos, bin_euc = check(puretf_vectorizer, corpus, queries[i], i+1, "Pure TF Binary", top_num=1000, p=False)
 	pure_cosine.append(cos)
 	pure_euc.append(euc)
+	pure_cosine_bin.append(bin_cos)
+	pure_euc_bin.append(bin_cos)
+
 print("   ---   Ended   ---")
 # Eval
 
 res_cos = []
 res_euc = []
 print(tfidf_cosine[0])
+print(tfidf_cosine_bin[0])
 print(tfidf_euc[0])
 print(results[0])
 "   ---   Starting eval TF-IDF   ---"
 ev_tfidf = []
 for i in range(len(tfidf_cosine)):
-	ev_tfidf.append(eval(results[i], tfidf_cosine[i], tfidf_euc[i], "TF-IDF", p=False))
+	ev_tfidf.append(eval(results[i], tfidf_cosine[i], tfidf_euc[i], tfidf_cosine_bin[i]
+						 , tfidf_euc_bin[i], "TF-IDF", p=False))
 "   ---   Ended   ---"
 "   ---   Starting eval PureTF   ---"
 ev_puretf = []
 for i in range(len(pure_cosine)):
-	ev_puretf.append(eval(results[i], pure_cosine[i], pure_euc[i], "PureTF", p=False))
+	ev_puretf.append(eval(results[i], pure_cosine[i], pure_euc[i], pure_cosine_bin[i],
+						  pure_euc_bin[i], "PureTF", p=False))
 "   ---   Ended   ---"
 print("TF-IDF")
 for i in range(len(ev_tfidf)):
