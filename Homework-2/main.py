@@ -34,10 +34,10 @@ def eval(results, cos, euc, cos_bin, euc_bin, type, p=False):
 	bin_cos_true = 0
 	bin_euc_true = 0
 	for i in cos:
-		if i+1 in results:
+		if i in results:
 			cos_truePos += 1
 	for i in euc:
-		if i+1 in results:
+		if i in results:
 			euc_truePos += 1
 	for i in cos_bin:
 		if i in results:
@@ -80,18 +80,18 @@ def eval(results, cos, euc, cos_bin, euc_bin, type, p=False):
 		pass
 
 	d = {
-		"cosine_pre": cos_pre,
-		"cosine_rec": cos_rec,
-		"cosine_f": cos_f,
-		"euclid_pre": euc_pre,
-		"euclid_rec": euc_rec,
-		"euclid_f": euc_f,
-		"cos_bin_pre": cos_bin_pre,
-		"cos_bin_rec": cos_bin_rec,
-		"cos_bin_f" : cos_bin_f,
-		"euc_bin_pre": euc_bin_pre,
-		"euc_bin_rec": euc_bin_rec,
-		"euc_bin_f" : euc_bin_f
+		"Cosine Precision": cos_pre,
+		"Cosine Recall": cos_rec,
+		"Cosine F-Measure": cos_f,
+		"Euclidian Precision": euc_pre,
+		"Euclidian Recall": euc_rec,
+		"Euclidian F-Measure": euc_f,
+		"Cosine Binary Precision": cos_bin_pre,
+		"Cosine Binary Recall": cos_bin_rec,
+		"Cosine Binary F-Measure" : cos_bin_f,
+		"Euclidian Binary Precision": euc_bin_pre,
+		"Euclidian Binary Recall": euc_bin_rec,
+		"Euclidian Binary F-Measure" : euc_bin_f
 	}
 
 	if p:
@@ -203,5 +203,18 @@ for i in range(len(ev_puretf)):
 	for k, v in ev_puretf[i].items():
 		s += "\n   " + str(k) + " : " + str(v)
 	print(s)
+
+def write_to_file(dict, name_file, type):
+	file = open(name_file, "w")
+	file.write(type)
+	for i in range(len(dict)):
+		s = "\nQuery " + str(i + 1) + " : "
+		for k, v in dict[i].items():
+			s += "\n   " + str(k) + " : " + str(v)
+		file.write(s)
+	file.close()
+
+write_to_file(ev_puretf, "Puretf.txt", "Pure TF")
+write_to_file(ev_tfidf, "tfidf.txt", "TF-IDF")
 
 

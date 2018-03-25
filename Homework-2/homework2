@@ -1,0 +1,5 @@
+In my programs the cases where i used binary representation was usually giving the
+highest recall. When I used binary representation I didnt see any difference in
+Euclidian distance and Cosine similarity. When I did not use Binary representation
+I got quite bad results using euclidian distance, but i got better precision when
+using cosine similarity.
