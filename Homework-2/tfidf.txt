@@ -6,64 +6,64 @@ Query 1 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.027
-   Cosine Binary Recall : 0.9
-   Cosine Binary F-Measure : 0.05242718446601941
-   Euclidian Binary Precision : 0.027
-   Euclidian Binary Recall : 0.9
-   Euclidian Binary F-Measure : 0.05242718446601941
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 2 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.07692307692307693
-   Cosine F-Measure : 0.1111111111111111
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.016
-   Cosine Binary Recall : 0.6153846153846154
-   Cosine Binary F-Measure : 0.031189083820662766
-   Euclidian Binary Precision : 0.016
-   Euclidian Binary Recall : 0.6153846153846154
-   Euclidian Binary F-Measure : 0.031189083820662766
-Query 3 : 
    Cosine Precision : 0.4
-   Cosine Recall : 0.4
-   Cosine F-Measure : 0.4000000000000001
+   Cosine Recall : 0.15384615384615385
+   Cosine F-Measure : 0.2222222222222222
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.008
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.015841584158415842
-   Euclidian Binary Precision : 0.008
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.015841584158415842
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 3 : 
+   Cosine Precision : 0.7
+   Cosine Recall : 0.7
+   Cosine F-Measure : 0.7
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 4 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.25
-   Cosine F-Measure : 0.14285714285714288
+   Cosine Precision : 0.2
+   Cosine Recall : 0.5
+   Cosine F-Measure : 0.28571428571428575
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.002
-   Cosine Binary Recall : 0.5
-   Cosine Binary F-Measure : 0.00398406374501992
-   Euclidian Binary Precision : 0.002
-   Euclidian Binary Recall : 0.5
-   Euclidian Binary F-Measure : 0.00398406374501992
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 5 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.2
+   Cosine Recall : 0.3333333333333333
+   Cosine F-Measure : 0.25
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.8333333333333334
-   Cosine Binary F-Measure : 0.009940357852882702
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.8333333333333334
-   Euclidian Binary F-Measure : 0.009940357852882702
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 6 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -71,12 +71,12 @@ Query 6 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.6666666666666666
-   Cosine Binary F-Measure : 0.007952286282306164
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.6666666666666666
-   Euclidian Binary F-Measure : 0.007952286282306164
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 7 : 
    Cosine Precision : 0.2
    Cosine Recall : 0.2857142857142857
@@ -84,25 +84,25 @@ Query 7 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.7142857142857143
-   Cosine Binary F-Measure : 0.009930486593843098
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.7142857142857143
-   Euclidian Binary F-Measure : 0.009930486593843098
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 8 : 
-   Cosine Precision : 0.3
-   Cosine Recall : 0.23076923076923078
-   Cosine F-Measure : 0.2608695652173913
+   Cosine Precision : 0.2
+   Cosine Recall : 0.15384615384615385
+   Cosine F-Measure : 0.17391304347826086
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.012
-   Cosine Binary Recall : 0.9230769230769231
-   Cosine Binary F-Measure : 0.023692003948667325
-   Euclidian Binary Precision : 0.012
-   Euclidian Binary Recall : 0.9230769230769231
-   Euclidian Binary F-Measure : 0.023692003948667325
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 9 : 
    Cosine Precision : 0.3
    Cosine Recall : 0.6
@@ -110,12 +110,12 @@ Query 9 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.007960199004975124
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.007960199004975124
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 10 : 
    Cosine Precision : 0.2
    Cosine Recall : 0.2
@@ -123,12 +123,12 @@ Query 10 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.008
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.015841584158415842
-   Euclidian Binary Precision : 0.008
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.015841584158415842
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 11 : 
    Cosine Precision : 0.2
    Cosine Recall : 0.2222222222222222
@@ -136,38 +136,38 @@ Query 11 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.008
-   Cosine Binary Recall : 0.8888888888888888
-   Cosine Binary F-Measure : 0.015857284440039643
-   Euclidian Binary Precision : 0.008
-   Euclidian Binary Recall : 0.8888888888888888
-   Euclidian Binary F-Measure : 0.015857284440039643
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 12 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.2
+   Cosine Recall : 0.2857142857142857
+   Cosine F-Measure : 0.23529411764705882
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.7142857142857143
-   Cosine Binary F-Measure : 0.009930486593843098
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.7142857142857143
-   Euclidian Binary F-Measure : 0.009930486593843098
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 13 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.1
+   Cosine Recall : 0.16666666666666666
+   Cosine F-Measure : 0.125
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.6666666666666666
-   Cosine Binary F-Measure : 0.007952286282306164
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.6666666666666666
-   Euclidian Binary F-Measure : 0.007952286282306164
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 14 : 
    Cosine Precision : 0.1
    Cosine Recall : 0.25
@@ -175,64 +175,64 @@ Query 14 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 15 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.25
-   Cosine F-Measure : 0.14285714285714288
+   Cosine Precision : 0.2
+   Cosine Recall : 0.5
+   Cosine F-Measure : 0.28571428571428575
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.002
-   Cosine Binary Recall : 0.5
-   Cosine Binary F-Measure : 0.00398406374501992
-   Euclidian Binary Precision : 0.002
-   Euclidian Binary Recall : 0.5
-   Euclidian Binary F-Measure : 0.00398406374501992
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 16 : 
+   Cosine Precision : 0.3
+   Cosine Recall : 0.6
+   Cosine F-Measure : 0.4
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 17 : 
+   Cosine Precision : 0.2
+   Cosine Recall : 0.5
+   Cosine F-Measure : 0.28571428571428575
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 18 : 
    Cosine Precision : 0.2
    Cosine Recall : 0.4
    Cosine F-Measure : 0.26666666666666666
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.007960199004975124
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.007960199004975124
-Query 17 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
-Query 18 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.2
-   Cosine F-Measure : 0.13333333333333333
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.007960199004975124
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.007960199004975124
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 19 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -240,25 +240,25 @@ Query 19 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.01
-   Cosine Binary Recall : 0.9090909090909091
-   Cosine Binary F-Measure : 0.019782393669634024
-   Euclidian Binary Precision : 0.01
-   Euclidian Binary Recall : 0.9090909090909091
-   Euclidian Binary F-Measure : 0.019782393669634024
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 20 : 
-   Cosine Precision : 0.3
-   Cosine Recall : 0.2727272727272727
-   Cosine F-Measure : 0.28571428571428564
+   Cosine Precision : 0.5
+   Cosine Recall : 0.45454545454545453
+   Cosine F-Measure : 0.47619047619047616
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.01
-   Cosine Binary Recall : 0.9090909090909091
-   Cosine Binary F-Measure : 0.019782393669634024
-   Euclidian Binary Precision : 0.01
-   Euclidian Binary Recall : 0.9090909090909091
-   Euclidian Binary F-Measure : 0.019782393669634024
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 21 : 
    Cosine Precision : 0.2
    Cosine Recall : 0.3333333333333333
@@ -266,12 +266,12 @@ Query 21 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.5
-   Cosine Binary F-Measure : 0.005964214711729622
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.5
-   Euclidian Binary F-Measure : 0.005964214711729622
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 22 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -279,77 +279,77 @@ Query 22 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.001
-   Cosine Binary Recall : 0.3333333333333333
-   Cosine Binary F-Measure : 0.0019940179461615153
-   Euclidian Binary Precision : 0.001
-   Euclidian Binary Recall : 0.3333333333333333
-   Euclidian Binary F-Measure : 0.0019940179461615153
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 23 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.029411764705882353
-   Cosine F-Measure : 0.04545454545454545
+   Cosine Precision : 0.4
+   Cosine Recall : 0.11764705882352941
+   Cosine F-Measure : 0.1818181818181818
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.03
-   Cosine Binary Recall : 0.8823529411764706
-   Cosine Binary F-Measure : 0.058027079303675046
-   Euclidian Binary Precision : 0.03
-   Euclidian Binary Recall : 0.8823529411764706
-   Euclidian Binary F-Measure : 0.058027079303675046
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 24 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.007960199004975124
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.007960199004975124
-Query 25 : 
    Cosine Precision : 0.2
-   Cosine Recall : 0.18181818181818182
-   Cosine F-Measure : 0.1904761904761905
+   Cosine Recall : 0.4
+   Cosine F-Measure : 0.26666666666666666
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.01
-   Cosine Binary Recall : 0.9090909090909091
-   Cosine Binary F-Measure : 0.019782393669634024
-   Euclidian Binary Precision : 0.01
-   Euclidian Binary Recall : 0.9090909090909091
-   Euclidian Binary F-Measure : 0.019782393669634024
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 25 : 
+   Cosine Precision : 0.5
+   Cosine Recall : 0.45454545454545453
+   Cosine F-Measure : 0.47619047619047616
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 26 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.1
+   Cosine Recall : 0.125
+   Cosine F-Measure : 0.11111111111111112
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.007
-   Cosine Binary Recall : 0.875
-   Cosine Binary F-Measure : 0.01388888888888889
-   Euclidian Binary Precision : 0.007
-   Euclidian Binary Recall : 0.875
-   Euclidian Binary F-Measure : 0.01388888888888889
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 27 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.2
+   Cosine Recall : 0.4
+   Cosine F-Measure : 0.26666666666666666
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.007960199004975124
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.007960199004975124
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 28 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -357,25 +357,25 @@ Query 28 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.001
-   Cosine Binary Recall : 0.25
-   Cosine Binary F-Measure : 0.00199203187250996
-   Euclidian Binary Precision : 0.001
-   Euclidian Binary Recall : 0.25
-   Euclidian Binary F-Measure : 0.00199203187250996
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 29 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.4
+   Cosine Recall : 0.36363636363636365
+   Cosine F-Measure : 0.380952380952381
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.008
-   Cosine Binary Recall : 0.7272727272727273
-   Cosine Binary F-Measure : 0.01582591493570722
-   Euclidian Binary Precision : 0.008
-   Euclidian Binary Recall : 0.7272727272727273
-   Euclidian Binary F-Measure : 0.01582591493570722
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 30 : 
    Cosine Precision : 0.1
    Cosine Recall : 0.1111111111111111
@@ -383,51 +383,51 @@ Query 30 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.008
-   Cosine Binary Recall : 0.8888888888888888
-   Cosine Binary F-Measure : 0.015857284440039643
-   Euclidian Binary Precision : 0.008
-   Euclidian Binary Recall : 0.8888888888888888
-   Euclidian Binary F-Measure : 0.015857284440039643
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 31 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.1
+   Cosine Recall : 0.3333333333333333
+   Cosine F-Measure : 0.15384615384615383
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.001
-   Cosine Binary Recall : 0.3333333333333333
-   Cosine Binary F-Measure : 0.0019940179461615153
-   Euclidian Binary Precision : 0.001
-   Euclidian Binary Recall : 0.3333333333333333
-   Euclidian Binary F-Measure : 0.0019940179461615153
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 32 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.25
-   Cosine F-Measure : 0.22222222222222224
+   Cosine Precision : 0.1
+   Cosine Recall : 0.125
+   Cosine F-Measure : 0.11111111111111112
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.007
-   Cosine Binary Recall : 0.875
-   Cosine Binary F-Measure : 0.01388888888888889
-   Euclidian Binary Precision : 0.007
-   Euclidian Binary Recall : 0.875
-   Euclidian Binary F-Measure : 0.01388888888888889
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 33 : 
-   Cosine Precision : 0.3
-   Cosine Recall : 0.6
-   Cosine F-Measure : 0.4
+   Cosine Precision : 0.4
+   Cosine Recall : 0.8
+   Cosine F-Measure : 0.5333333333333333
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.007960199004975124
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.007960199004975124
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 34 : 
    Cosine Precision : 0.3
    Cosine Recall : 0.375
@@ -435,12 +435,12 @@ Query 34 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.007
-   Cosine Binary Recall : 0.875
-   Cosine Binary F-Measure : 0.01388888888888889
-   Euclidian Binary Precision : 0.007
-   Euclidian Binary Recall : 0.875
-   Euclidian Binary F-Measure : 0.01388888888888889
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 35 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -448,12 +448,12 @@ Query 35 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.007960199004975124
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.007960199004975124
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 36 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -461,103 +461,103 @@ Query 36 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 37 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.09090909090909091
-   Cosine F-Measure : 0.09523809523809525
+   Cosine Precision : 0.4
+   Cosine Recall : 0.36363636363636365
+   Cosine F-Measure : 0.380952380952381
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.01
-   Cosine Binary Recall : 0.9090909090909091
-   Cosine Binary F-Measure : 0.019782393669634024
-   Euclidian Binary Precision : 0.01
-   Euclidian Binary Recall : 0.9090909090909091
-   Euclidian Binary F-Measure : 0.019782393669634024
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 38 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.08333333333333333
-   Cosine F-Measure : 0.0909090909090909
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.009
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.017786561264822132
-   Euclidian Binary Precision : 0.009
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.017786561264822132
-Query 39 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.06666666666666667
-   Cosine F-Measure : 0.08
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.012
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.023645320197044337
-   Euclidian Binary Precision : 0.012
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.023645320197044337
-Query 40 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.012
-   Cosine Binary Recall : 0.8571428571428571
-   Cosine Binary F-Measure : 0.023668639053254437
-   Euclidian Binary Precision : 0.012
-   Euclidian Binary Recall : 0.8571428571428571
-   Euclidian Binary F-Measure : 0.023668639053254437
-Query 41 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.2
-   Cosine F-Measure : 0.13333333333333333
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.007960199004975124
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.007960199004975124
-Query 42 : 
    Cosine Precision : 0.2
-   Cosine Recall : 0.2857142857142857
-   Cosine F-Measure : 0.23529411764705882
+   Cosine Recall : 0.16666666666666666
+   Cosine F-Measure : 0.1818181818181818
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.8571428571428571
-   Cosine Binary F-Measure : 0.011916583912611719
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.8571428571428571
-   Euclidian Binary F-Measure : 0.011916583912611719
-Query 43 : 
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 39 : 
+   Cosine Precision : 0.2
+   Cosine Recall : 0.13333333333333333
+   Cosine F-Measure : 0.16
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 40 : 
+   Cosine Precision : 0.1
+   Cosine Recall : 0.07142857142857142
+   Cosine F-Measure : 0.08333333333333333
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 41 : 
+   Cosine Precision : 0.2
+   Cosine Recall : 0.4
+   Cosine F-Measure : 0.26666666666666666
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 42 : 
    Cosine Precision : 0.3
-   Cosine Recall : 0.375
-   Cosine F-Measure : 0.33333333333333326
+   Cosine Recall : 0.42857142857142855
+   Cosine F-Measure : 0.3529411764705882
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.007
-   Cosine Binary Recall : 0.875
-   Cosine Binary F-Measure : 0.01388888888888889
-   Euclidian Binary Precision : 0.007
-   Euclidian Binary Recall : 0.875
-   Euclidian Binary F-Measure : 0.01388888888888889
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 43 : 
+   Cosine Precision : 0.5
+   Cosine Recall : 0.625
+   Cosine F-Measure : 0.5555555555555556
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 44 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -565,116 +565,116 @@ Query 44 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.001
-   Cosine Binary Recall : 0.2
-   Cosine Binary F-Measure : 0.001990049751243781
-   Euclidian Binary Precision : 0.001
-   Euclidian Binary Recall : 0.2
-   Euclidian Binary F-Measure : 0.001990049751243781
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 45 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.14285714285714285
-   Cosine F-Measure : 0.16666666666666666
-   Euclidian Precision : 0.1
-   Euclidian Recall : 0.07142857142857142
-   Euclidian F-Measure : 0.08333333333333333
-   Cosine Binary Precision : 0.013
-   Cosine Binary Recall : 0.9285714285714286
-   Cosine Binary F-Measure : 0.02564102564102564
-   Euclidian Binary Precision : 0.013
-   Euclidian Binary Recall : 0.9285714285714286
-   Euclidian Binary F-Measure : 0.02564102564102564
+   Cosine Precision : 0.3
+   Cosine Recall : 0.21428571428571427
+   Cosine F-Measure : 0.25
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 46 : 
-   Cosine Precision : 0.5
-   Cosine Recall : 0.29411764705882354
-   Cosine F-Measure : 0.37037037037037035
-   Euclidian Precision : 0.1
-   Euclidian Recall : 0.058823529411764705
-   Euclidian F-Measure : 0.07407407407407408
-   Cosine Binary Precision : 0.015
-   Cosine Binary Recall : 0.8823529411764706
-   Cosine Binary F-Measure : 0.029498525073746312
-   Euclidian Binary Precision : 0.015
-   Euclidian Binary Recall : 0.8823529411764706
-   Euclidian Binary F-Measure : 0.029498525073746312
+   Cosine Precision : 0.6
+   Cosine Recall : 0.35294117647058826
+   Cosine F-Measure : 0.4444444444444445
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 47 : 
-   Cosine Precision : 0.4
-   Cosine Recall : 0.25
-   Cosine F-Measure : 0.3076923076923077
-   Euclidian Precision : 0.1
-   Euclidian Recall : 0.0625
-   Euclidian F-Measure : 0.07692307692307693
-   Cosine Binary Precision : 0.015
-   Cosine Binary Recall : 0.9375
-   Cosine Binary F-Measure : 0.029527559055118106
-   Euclidian Binary Precision : 0.015
-   Euclidian Binary Recall : 0.9375
-   Euclidian Binary F-Measure : 0.029527559055118106
+   Cosine Precision : 0.5
+   Cosine Recall : 0.3125
+   Cosine F-Measure : 0.38461538461538464
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 48 : 
    Cosine Precision : 0.3
    Cosine Recall : 0.23076923076923078
    Cosine F-Measure : 0.2608695652173913
-   Euclidian Precision : 0.1
-   Euclidian Recall : 0.07692307692307693
-   Euclidian F-Measure : 0.08695652173913043
-   Cosine Binary Precision : 0.011
-   Cosine Binary Recall : 0.8461538461538461
-   Cosine Binary F-Measure : 0.021717670286278377
-   Euclidian Binary Precision : 0.011
-   Euclidian Binary Recall : 0.8461538461538461
-   Euclidian Binary F-Measure : 0.021717670286278377
-Query 49 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 49 : 
+   Cosine Precision : 0.2
+   Cosine Recall : 0.5
+   Cosine F-Measure : 0.28571428571428575
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 50 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
    Cosine F-Measure : 0
-   Euclidian Precision : 0.1
-   Euclidian Recall : 0.125
-   Euclidian F-Measure : 0.11111111111111112
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.375
-   Cosine Binary F-Measure : 0.005952380952380953
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.375
-   Euclidian Binary F-Measure : 0.005952380952380953
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 51 : 
    Cosine Precision : 0.1
    Cosine Recall : 0.08333333333333333
    Cosine F-Measure : 0.0909090909090909
-   Euclidian Precision : 0.1
-   Euclidian Recall : 0.08333333333333333
-   Euclidian F-Measure : 0.0909090909090909
-   Cosine Binary Precision : 0.011
-   Cosine Binary Recall : 0.9166666666666666
-   Cosine Binary F-Measure : 0.021739130434782608
-   Euclidian Binary Precision : 0.011
-   Euclidian Binary Recall : 0.9166666666666666
-   Euclidian Binary F-Measure : 0.021739130434782608
-Query 52 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.6666666666666666
-   Cosine Binary F-Measure : 0.007952286282306164
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.6666666666666666
-   Euclidian Binary F-Measure : 0.007952286282306164
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 52 : 
+   Cosine Precision : 0.5
+   Cosine Recall : 0.8333333333333334
+   Cosine F-Measure : 0.625
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 53 : 
    Cosine Precision : 0.2
    Cosine Recall : 0.16666666666666666
@@ -682,12 +682,12 @@ Query 53 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.01
-   Cosine Binary Recall : 0.8333333333333334
-   Cosine Binary F-Measure : 0.01976284584980237
-   Euclidian Binary Precision : 0.01
-   Euclidian Binary Recall : 0.8333333333333334
-   Euclidian Binary F-Measure : 0.01976284584980237
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 54 : 
    Cosine Precision : 0.2
    Cosine Recall : 0.18181818181818182
@@ -695,12 +695,12 @@ Query 54 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.01
-   Cosine Binary Recall : 0.9090909090909091
-   Cosine Binary F-Measure : 0.019782393669634024
-   Euclidian Binary Precision : 0.01
-   Euclidian Binary Recall : 0.9090909090909091
-   Euclidian Binary F-Measure : 0.019782393669634024
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 55 : 
    Cosine Precision : 0.3
    Cosine Recall : 0.25
@@ -708,51 +708,51 @@ Query 55 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.009
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.017786561264822132
-   Euclidian Binary Precision : 0.009
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.017786561264822132
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 56 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.08333333333333333
-   Cosine F-Measure : 0.0909090909090909
+   Cosine Precision : 0.3
+   Cosine Recall : 0.25
+   Cosine F-Measure : 0.2727272727272727
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.011
-   Cosine Binary Recall : 0.9166666666666666
-   Cosine Binary F-Measure : 0.021739130434782608
-   Euclidian Binary Precision : 0.011
-   Euclidian Binary Recall : 0.9166666666666666
-   Euclidian Binary F-Measure : 0.021739130434782608
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 57 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.3
+   Cosine Recall : 0.1875
+   Cosine F-Measure : 0.23076923076923075
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.012
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.02362204724409449
-   Euclidian Binary Precision : 0.012
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.02362204724409449
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 58 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.18181818181818182
-   Cosine F-Measure : 0.1904761904761905
+   Cosine Precision : 0.3
+   Cosine Recall : 0.2727272727272727
+   Cosine F-Measure : 0.28571428571428564
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.009
-   Cosine Binary Recall : 0.8181818181818182
-   Cosine Binary F-Measure : 0.017804154302670624
-   Euclidian Binary Precision : 0.009
-   Euclidian Binary Recall : 0.8181818181818182
-   Euclidian Binary F-Measure : 0.017804154302670624
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 59 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -760,12 +760,12 @@ Query 59 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.8333333333333334
-   Cosine Binary F-Measure : 0.009940357852882702
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.8333333333333334
-   Euclidian Binary F-Measure : 0.009940357852882702
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 60 : 
    Cosine Precision : 0.3
    Cosine Recall : 0.42857142857142855
@@ -773,38 +773,38 @@ Query 60 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.8571428571428571
-   Cosine Binary F-Measure : 0.011916583912611719
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.8571428571428571
-   Euclidian Binary F-Measure : 0.011916583912611719
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 61 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.2857142857142857
-   Cosine F-Measure : 0.23529411764705882
+   Cosine Precision : 0.3
+   Cosine Recall : 0.42857142857142855
+   Cosine F-Measure : 0.3529411764705882
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.7142857142857143
-   Cosine Binary F-Measure : 0.009930486593843098
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.7142857142857143
-   Euclidian Binary F-Measure : 0.009930486593843098
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 62 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.1
+   Cosine Recall : 0.14285714285714285
+   Cosine F-Measure : 0.11764705882352941
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.7142857142857143
-   Cosine Binary F-Measure : 0.009930486593843098
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.7142857142857143
-   Euclidian Binary F-Measure : 0.009930486593843098
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 63 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -812,64 +812,64 @@ Query 63 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.007960199004975124
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.007960199004975124
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 64 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.1
+   Cosine Recall : 0.25
+   Cosine F-Measure : 0.14285714285714288
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 65 : 
    Cosine Precision : 0.6
    Cosine Recall : 0.35294117647058826
    Cosine F-Measure : 0.4444444444444445
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.015
-   Cosine Binary Recall : 0.8823529411764706
-   Cosine Binary F-Measure : 0.029498525073746312
-   Euclidian Binary Precision : 0.015
-   Euclidian Binary Recall : 0.8823529411764706
-   Euclidian Binary F-Measure : 0.029498525073746312
+   Euclidian Precision : 0.1
+   Euclidian Recall : 0.058823529411764705
+   Euclidian F-Measure : 0.07407407407407408
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 66 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.2857142857142857
-   Cosine F-Measure : 0.23529411764705882
+   Cosine Precision : 0.1
+   Cosine Recall : 0.14285714285714285
+   Cosine F-Measure : 0.11764705882352941
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.7142857142857143
-   Cosine Binary F-Measure : 0.009930486593843098
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.7142857142857143
-   Euclidian Binary F-Measure : 0.009930486593843098
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 67 : 
-   Cosine Precision : 0.4
-   Cosine Recall : 0.25
-   Cosine F-Measure : 0.3076923076923077
+   Cosine Precision : 0.7
+   Cosine Recall : 0.4375
+   Cosine F-Measure : 0.5384615384615384
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.015
-   Cosine Binary Recall : 0.9375
-   Cosine Binary F-Measure : 0.029527559055118106
-   Euclidian Binary Precision : 0.015
-   Euclidian Binary Recall : 0.9375
-   Euclidian Binary F-Measure : 0.029527559055118106
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 68 : 
    Cosine Precision : 0.1
    Cosine Recall : 0.14285714285714285
@@ -877,25 +877,25 @@ Query 68 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.8571428571428571
-   Cosine Binary F-Measure : 0.011916583912611719
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.8571428571428571
-   Euclidian Binary F-Measure : 0.011916583912611719
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 69 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.14285714285714285
-   Cosine F-Measure : 0.11764705882352941
+   Cosine Precision : 0.0
+   Cosine Recall : 0.0
+   Cosine F-Measure : 0
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.8571428571428571
-   Cosine Binary F-Measure : 0.011916583912611719
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.8571428571428571
-   Euclidian Binary F-Measure : 0.011916583912611719
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 70 : 
    Cosine Precision : 0.3
    Cosine Recall : 0.25
@@ -903,51 +903,51 @@ Query 70 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.011
-   Cosine Binary Recall : 0.9166666666666666
-   Cosine Binary F-Measure : 0.021739130434782608
-   Euclidian Binary Precision : 0.011
-   Euclidian Binary Recall : 0.9166666666666666
-   Euclidian Binary F-Measure : 0.021739130434782608
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 71 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
-   Euclidian Precision : 0.1
-   Euclidian Recall : 0.1
-   Euclidian F-Measure : 0.10000000000000002
-   Cosine Binary Precision : 0.009
-   Cosine Binary Recall : 0.9
-   Cosine Binary F-Measure : 0.01782178217821782
-   Euclidian Binary Precision : 0.009
-   Euclidian Binary Recall : 0.9
-   Euclidian Binary F-Measure : 0.01782178217821782
-Query 72 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
-   Euclidian Precision : 0.1
-   Euclidian Recall : 0.05263157894736842
-   Euclidian F-Measure : 0.06896551724137931
-   Cosine Binary Precision : 0.014
-   Cosine Binary Recall : 0.7368421052631579
-   Cosine Binary F-Measure : 0.027477919528949953
-   Euclidian Binary Precision : 0.014
-   Euclidian Binary Recall : 0.7368421052631579
-   Euclidian Binary F-Measure : 0.027477919528949953
-Query 73 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.045454545454545456
-   Cosine F-Measure : 0.06250000000000001
+   Cosine Precision : 0.2
+   Cosine Recall : 0.2
+   Cosine F-Measure : 0.20000000000000004
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.017
-   Cosine Binary Recall : 0.7727272727272727
-   Cosine Binary F-Measure : 0.03326810176125245
-   Euclidian Binary Precision : 0.017
-   Euclidian Binary Recall : 0.7727272727272727
-   Euclidian Binary F-Measure : 0.03326810176125245
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 72 : 
+   Cosine Precision : 0.1
+   Cosine Recall : 0.05263157894736842
+   Cosine F-Measure : 0.06896551724137931
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 73 : 
+   Cosine Precision : 0.5
+   Cosine Recall : 0.22727272727272727
+   Cosine F-Measure : 0.3125
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 74 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -955,64 +955,64 @@ Query 74 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.625
-   Cosine Binary F-Measure : 0.009920634920634922
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.625
-   Euclidian Binary F-Measure : 0.009920634920634922
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 75 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.1
+   Cosine Recall : 0.14285714285714285
+   Cosine F-Measure : 0.11764705882352941
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.5714285714285714
-   Cosine Binary F-Measure : 0.007944389275074478
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.5714285714285714
-   Euclidian Binary F-Measure : 0.007944389275074478
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 76 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
-   Euclidian Precision : 0.1
-   Euclidian Recall : 0.1111111111111111
-   Euclidian F-Measure : 0.10526315789473685
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.5555555555555556
-   Cosine Binary F-Measure : 0.009910802775024777
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.5555555555555556
-   Euclidian Binary F-Measure : 0.009910802775024777
-Query 77 : 
    Cosine Precision : 0.2
-   Cosine Recall : 0.25
-   Cosine F-Measure : 0.22222222222222224
-   Euclidian Precision : 0.1
-   Euclidian Recall : 0.125
-   Euclidian F-Measure : 0.11111111111111112
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.011904761904761906
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.011904761904761906
-Query 78 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Recall : 0.2222222222222222
+   Cosine F-Measure : 0.2105263157894737
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.002
-   Cosine Binary Recall : 0.4
-   Cosine Binary F-Measure : 0.003980099502487562
-   Euclidian Binary Precision : 0.002
-   Euclidian Binary Recall : 0.4
-   Euclidian Binary F-Measure : 0.003980099502487562
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 77 : 
+   Cosine Precision : 0.4
+   Cosine Recall : 0.5
+   Cosine F-Measure : 0.4444444444444445
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 78 : 
+   Cosine Precision : 0.2
+   Cosine Recall : 0.4
+   Cosine F-Measure : 0.26666666666666666
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 79 : 
    Cosine Precision : 0.2
    Cosine Recall : 0.2857142857142857
@@ -1020,25 +1020,25 @@ Query 79 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.8571428571428571
-   Cosine Binary F-Measure : 0.011916583912611719
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.8571428571428571
-   Euclidian Binary F-Measure : 0.011916583912611719
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 80 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.1
+   Cosine Recall : 0.16666666666666666
+   Cosine F-Measure : 0.125
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.6666666666666666
-   Cosine Binary F-Measure : 0.007952286282306164
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.6666666666666666
-   Euclidian Binary F-Measure : 0.007952286282306164
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 81 : 
    Cosine Precision : 0.1
    Cosine Recall : 0.25
@@ -1046,38 +1046,38 @@ Query 81 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 82 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.3
+   Cosine Recall : 0.42857142857142855
+   Cosine F-Measure : 0.3529411764705882
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.8571428571428571
-   Cosine Binary F-Measure : 0.011916583912611719
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.8571428571428571
-   Euclidian Binary F-Measure : 0.011916583912611719
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 83 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.2
+   Cosine Recall : 0.3333333333333333
+   Cosine F-Measure : 0.25
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.8333333333333334
-   Cosine Binary F-Measure : 0.009940357852882702
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.8333333333333334
-   Euclidian Binary F-Measure : 0.009940357852882702
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 84 : 
    Cosine Precision : 0.1
    Cosine Recall : 0.07692307692307693
@@ -1085,12 +1085,12 @@ Query 84 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.012
-   Cosine Binary Recall : 0.9230769230769231
-   Cosine Binary F-Measure : 0.023692003948667325
-   Euclidian Binary Precision : 0.012
-   Euclidian Binary Recall : 0.9230769230769231
-   Euclidian Binary F-Measure : 0.023692003948667325
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 85 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -1098,12 +1098,12 @@ Query 85 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.8333333333333334
-   Cosine Binary F-Measure : 0.009940357852882702
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.8333333333333334
-   Euclidian Binary F-Measure : 0.009940357852882702
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 86 : 
    Cosine Precision : 0.1
    Cosine Recall : 0.25
@@ -1111,12 +1111,12 @@ Query 86 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 87 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -1124,129 +1124,129 @@ Query 87 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.6
-   Cosine Binary F-Measure : 0.011881188118811881
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.6
-   Euclidian Binary F-Measure : 0.011881188118811881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 88 : 
-   Cosine Precision : 0.5
-   Cosine Recall : 0.625
-   Cosine F-Measure : 0.5555555555555556
+   Cosine Precision : 0.7
+   Cosine Recall : 0.875
+   Cosine F-Measure : 0.7777777777777777
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.007
-   Cosine Binary Recall : 0.875
-   Cosine Binary F-Measure : 0.01388888888888889
-   Euclidian Binary Precision : 0.007
-   Euclidian Binary Recall : 0.875
-   Euclidian Binary F-Measure : 0.01388888888888889
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 89 : 
-   Cosine Precision : 0.3
-   Cosine Recall : 0.375
-   Cosine F-Measure : 0.33333333333333326
+   Cosine Precision : 0.4
+   Cosine Recall : 0.5
+   Cosine F-Measure : 0.4444444444444445
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.007
-   Cosine Binary Recall : 0.875
-   Cosine Binary F-Measure : 0.01388888888888889
-   Euclidian Binary Precision : 0.007
-   Euclidian Binary Recall : 0.875
-   Euclidian Binary F-Measure : 0.01388888888888889
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 90 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.13333333333333333
-   Cosine F-Measure : 0.16
-   Euclidian Precision : 0.1
-   Euclidian Recall : 0.06666666666666667
-   Euclidian F-Measure : 0.08
-   Cosine Binary Precision : 0.014
-   Cosine Binary Recall : 0.9333333333333333
-   Cosine Binary F-Measure : 0.027586206896551724
-   Euclidian Binary Precision : 0.014
-   Euclidian Binary Recall : 0.9333333333333333
-   Euclidian Binary F-Measure : 0.027586206896551724
+   Cosine Precision : 0.4
+   Cosine Recall : 0.26666666666666666
+   Cosine F-Measure : 0.32
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 91 : 
-   Cosine Precision : 0.3
-   Cosine Recall : 0.2727272727272727
-   Cosine F-Measure : 0.28571428571428564
+   Cosine Precision : 0.2
+   Cosine Recall : 0.18181818181818182
+   Cosine F-Measure : 0.1904761904761905
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.01
-   Cosine Binary Recall : 0.9090909090909091
-   Cosine Binary F-Measure : 0.019782393669634024
-   Euclidian Binary Precision : 0.01
-   Euclidian Binary Recall : 0.9090909090909091
-   Euclidian Binary F-Measure : 0.019782393669634024
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 92 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.6
+   Cosine Recall : 0.4
+   Cosine F-Measure : 0.48
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.012
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.023645320197044337
-   Euclidian Binary Precision : 0.012
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.023645320197044337
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 93 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.3333333333333333
-   Cosine F-Measure : 0.15384615384615383
+   Cosine Precision : 0.2
+   Cosine Recall : 0.6666666666666666
+   Cosine F-Measure : 0.30769230769230765
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.002
-   Cosine Binary Recall : 0.6666666666666666
-   Cosine Binary F-Measure : 0.003988035892323031
-   Euclidian Binary Precision : 0.002
-   Euclidian Binary Recall : 0.6666666666666666
-   Euclidian Binary F-Measure : 0.003988035892323031
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 94 : 
-   Cosine Precision : 0.3
-   Cosine Recall : 0.21428571428571427
-   Cosine F-Measure : 0.25
+   Cosine Precision : 0.5
+   Cosine Recall : 0.35714285714285715
+   Cosine F-Measure : 0.41666666666666663
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.011
-   Cosine Binary Recall : 0.7857142857142857
-   Cosine Binary F-Measure : 0.02169625246548323
-   Euclidian Binary Precision : 0.011
-   Euclidian Binary Recall : 0.7857142857142857
-   Euclidian Binary F-Measure : 0.02169625246548323
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 95 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.25
-   Cosine F-Measure : 0.14285714285714288
+   Cosine Precision : 0.3
+   Cosine Recall : 0.75
+   Cosine F-Measure : 0.4285714285714285
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 96 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.06666666666666667
-   Cosine F-Measure : 0.08
+   Cosine Precision : 0.4
+   Cosine Recall : 0.26666666666666666
+   Cosine F-Measure : 0.32
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.012
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.023645320197044337
-   Euclidian Binary Precision : 0.012
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.023645320197044337
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 97 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -1254,90 +1254,90 @@ Query 97 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.009
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.017786561264822132
-   Euclidian Binary Precision : 0.009
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.017786561264822132
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 98 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.1
+   Cosine Recall : 0.14285714285714285
+   Cosine F-Measure : 0.11764705882352941
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.7142857142857143
-   Cosine Binary F-Measure : 0.009930486593843098
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.7142857142857143
-   Euclidian Binary F-Measure : 0.009930486593843098
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 99 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.5
-   Cosine Binary F-Measure : 0.005964214711729622
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.5
-   Euclidian Binary F-Measure : 0.005964214711729622
-Query 100 : 
-   Cosine Precision : 0.4
-   Cosine Recall : 0.36363636363636365
-   Cosine F-Measure : 0.380952380952381
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.009
-   Cosine Binary Recall : 0.8181818181818182
-   Cosine Binary F-Measure : 0.017804154302670624
-   Euclidian Binary Precision : 0.009
-   Euclidian Binary Recall : 0.8181818181818182
-   Euclidian Binary F-Measure : 0.017804154302670624
-Query 101 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.25
-   Cosine F-Measure : 0.22222222222222224
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.007
-   Cosine Binary Recall : 0.875
-   Cosine Binary F-Measure : 0.01388888888888889
-   Euclidian Binary Precision : 0.007
-   Euclidian Binary Recall : 0.875
-   Euclidian Binary F-Measure : 0.01388888888888889
-Query 102 : 
    Cosine Precision : 0.1
    Cosine Recall : 0.16666666666666666
    Cosine F-Measure : 0.125
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.8333333333333334
-   Cosine Binary F-Measure : 0.009940357852882702
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.8333333333333334
-   Euclidian Binary F-Measure : 0.009940357852882702
-Query 103 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 100 : 
+   Cosine Precision : 0.5
+   Cosine Recall : 0.45454545454545453
+   Cosine F-Measure : 0.47619047619047616
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 101 : 
+   Cosine Precision : 0.4
+   Cosine Recall : 0.5
+   Cosine F-Measure : 0.4444444444444445
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 102 : 
+   Cosine Precision : 0.2
+   Cosine Recall : 0.3333333333333333
+   Cosine F-Measure : 0.25
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 103 : 
+   Cosine Precision : 0.1
+   Cosine Recall : 0.25
+   Cosine F-Measure : 0.14285714285714288
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 104 : 
    Cosine Precision : 0.1
    Cosine Recall : 0.14285714285714285
@@ -1345,64 +1345,64 @@ Query 104 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.5714285714285714
-   Cosine Binary F-Measure : 0.007944389275074478
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.5714285714285714
-   Euclidian Binary F-Measure : 0.007944389275074478
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 105 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.14285714285714285
-   Cosine F-Measure : 0.11764705882352941
+   Cosine Precision : 0.4
+   Cosine Recall : 0.5714285714285714
+   Cosine F-Measure : 0.47058823529411764
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.8571428571428571
-   Cosine Binary F-Measure : 0.011916583912611719
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.8571428571428571
-   Euclidian Binary F-Measure : 0.011916583912611719
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 106 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.14285714285714285
-   Cosine F-Measure : 0.11764705882352941
+   Cosine Precision : 0.3
+   Cosine Recall : 0.42857142857142855
+   Cosine F-Measure : 0.3529411764705882
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.7142857142857143
-   Cosine Binary F-Measure : 0.009930486593843098
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.7142857142857143
-   Euclidian Binary F-Measure : 0.009930486593843098
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 107 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.3
+   Cosine Recall : 0.3333333333333333
+   Cosine F-Measure : 0.3157894736842105
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.007
-   Cosine Binary Recall : 0.7777777777777778
-   Cosine Binary F-Measure : 0.013875123885034688
-   Euclidian Binary Precision : 0.007
-   Euclidian Binary Recall : 0.7777777777777778
-   Euclidian Binary F-Measure : 0.013875123885034688
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 108 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.2222222222222222
-   Cosine F-Measure : 0.2105263157894737
+   Cosine Precision : 0.4
+   Cosine Recall : 0.4444444444444444
+   Cosine F-Measure : 0.4210526315789474
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.008
-   Cosine Binary Recall : 0.8888888888888888
-   Cosine Binary F-Measure : 0.015857284440039643
-   Euclidian Binary Precision : 0.008
-   Euclidian Binary Recall : 0.8888888888888888
-   Euclidian Binary F-Measure : 0.015857284440039643
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 109 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -1410,12 +1410,12 @@ Query 109 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.5714285714285714
-   Cosine Binary F-Measure : 0.007944389275074478
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.5714285714285714
-   Euclidian Binary F-Measure : 0.007944389275074478
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 110 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -1423,12 +1423,12 @@ Query 110 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.5
-   Cosine Binary F-Measure : 0.005964214711729622
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.5
-   Euclidian Binary F-Measure : 0.005964214711729622
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 111 : 
    Cosine Precision : 0.4
    Cosine Recall : 0.4444444444444444
@@ -1436,12 +1436,12 @@ Query 111 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.6666666666666666
-   Cosine Binary F-Measure : 0.011892963330029734
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.6666666666666666
-   Euclidian Binary F-Measure : 0.011892963330029734
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 112 : 
    Cosine Precision : 0.2
    Cosine Recall : 0.5
@@ -1449,38 +1449,38 @@ Query 112 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 113 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.1
+   Cosine Recall : 0.16666666666666666
+   Cosine F-Measure : 0.125
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.8333333333333334
-   Cosine Binary F-Measure : 0.009940357852882702
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.8333333333333334
-   Euclidian Binary F-Measure : 0.009940357852882702
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 114 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.1
+   Cosine Recall : 0.16666666666666666
+   Cosine F-Measure : 0.125
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.6666666666666666
-   Cosine Binary F-Measure : 0.007952286282306164
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.6666666666666666
-   Euclidian Binary F-Measure : 0.007952286282306164
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 115 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -1488,25 +1488,25 @@ Query 115 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.8333333333333334
-   Cosine Binary F-Measure : 0.009940357852882702
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.8333333333333334
-   Euclidian Binary F-Measure : 0.009940357852882702
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 116 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
-   Euclidian Precision : 0.1
-   Euclidian Recall : 0.14285714285714285
-   Euclidian F-Measure : 0.11764705882352941
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.7142857142857143
-   Cosine Binary F-Measure : 0.009930486593843098
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.7142857142857143
-   Euclidian Binary F-Measure : 0.009930486593843098
+   Cosine Precision : 0.1
+   Cosine Recall : 0.14285714285714285
+   Cosine F-Measure : 0.11764705882352941
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 117 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -1514,12 +1514,12 @@ Query 117 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 118 : 
    Cosine Precision : 0.1
    Cosine Recall : 0.2
@@ -1527,12 +1527,12 @@ Query 118 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.007960199004975124
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.007960199004975124
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 119 : 
    Cosine Precision : 0.1
    Cosine Recall : 0.3333333333333333
@@ -1540,51 +1540,51 @@ Query 119 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.002
-   Cosine Binary Recall : 0.6666666666666666
-   Cosine Binary F-Measure : 0.003988035892323031
-   Euclidian Binary Precision : 0.002
-   Euclidian Binary Recall : 0.6666666666666666
-   Euclidian Binary F-Measure : 0.003988035892323031
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 120 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.09090909090909091
-   Cosine F-Measure : 0.09523809523809525
+   Cosine Precision : 0.6
+   Cosine Recall : 0.5454545454545454
+   Cosine F-Measure : 0.5714285714285713
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.01
-   Cosine Binary Recall : 0.9090909090909091
-   Cosine Binary F-Measure : 0.019782393669634024
-   Euclidian Binary Precision : 0.01
-   Euclidian Binary Recall : 0.9090909090909091
-   Euclidian Binary F-Measure : 0.019782393669634024
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 121 : 
-   Cosine Precision : 0.3
-   Cosine Recall : 0.3333333333333333
-   Cosine F-Measure : 0.3157894736842105
+   Cosine Precision : 0.5
+   Cosine Recall : 0.5555555555555556
+   Cosine F-Measure : 0.5263157894736842
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.008
-   Cosine Binary Recall : 0.8888888888888888
-   Cosine Binary F-Measure : 0.015857284440039643
-   Euclidian Binary Precision : 0.008
-   Euclidian Binary Recall : 0.8888888888888888
-   Euclidian Binary F-Measure : 0.015857284440039643
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 122 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.09090909090909091
-   Cosine F-Measure : 0.09523809523809525
+   Cosine Precision : 0.2
+   Cosine Recall : 0.18181818181818182
+   Cosine F-Measure : 0.1904761904761905
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.008
-   Cosine Binary Recall : 0.7272727272727273
-   Cosine Binary F-Measure : 0.01582591493570722
-   Euclidian Binary Precision : 0.008
-   Euclidian Binary Recall : 0.7272727272727273
-   Euclidian Binary F-Measure : 0.01582591493570722
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 123 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -1592,38 +1592,38 @@ Query 123 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 124 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.1
+   Cosine Recall : 0.16666666666666666
+   Cosine F-Measure : 0.125
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.6666666666666666
-   Cosine Binary F-Measure : 0.007952286282306164
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.6666666666666666
-   Euclidian Binary F-Measure : 0.007952286282306164
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 125 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.10526315789473684
-   Cosine F-Measure : 0.13793103448275862
+   Cosine Precision : 0.3
+   Cosine Recall : 0.15789473684210525
+   Cosine F-Measure : 0.20689655172413793
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.016
-   Cosine Binary Recall : 0.8421052631578947
-   Cosine Binary F-Measure : 0.03140333660451423
-   Euclidian Binary Precision : 0.016
-   Euclidian Binary Recall : 0.8421052631578947
-   Euclidian Binary F-Measure : 0.03140333660451423
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 126 : 
    Cosine Precision : 0.2
    Cosine Recall : 0.2
@@ -1631,25 +1631,25 @@ Query 126 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.009
-   Cosine Binary Recall : 0.9
-   Cosine Binary F-Measure : 0.01782178217821782
-   Euclidian Binary Precision : 0.009
-   Euclidian Binary Recall : 0.9
-   Euclidian Binary F-Measure : 0.01782178217821782
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 127 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.1
+   Cosine Recall : 0.14285714285714285
+   Cosine F-Measure : 0.11764705882352941
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.8571428571428571
-   Cosine Binary F-Measure : 0.011916583912611719
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.8571428571428571
-   Euclidian Binary F-Measure : 0.011916583912611719
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 128 : 
    Cosine Precision : 0.1
    Cosine Recall : 0.25
@@ -1657,129 +1657,129 @@ Query 128 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 129 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.2222222222222222
-   Cosine F-Measure : 0.2105263157894737
+   Cosine Precision : 0.5
+   Cosine Recall : 0.5555555555555556
+   Cosine F-Measure : 0.5263157894736842
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.008
-   Cosine Binary Recall : 0.8888888888888888
-   Cosine Binary F-Measure : 0.015857284440039643
-   Euclidian Binary Precision : 0.008
-   Euclidian Binary Recall : 0.8888888888888888
-   Euclidian Binary F-Measure : 0.015857284440039643
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 130 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.8571428571428571
-   Cosine Binary F-Measure : 0.011916583912611719
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.8571428571428571
-   Euclidian Binary F-Measure : 0.011916583912611719
-Query 131 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.1
-   Cosine F-Measure : 0.10000000000000002
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.008
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.015841584158415842
-   Euclidian Binary Precision : 0.008
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.015841584158415842
-Query 132 : 
-   Cosine Precision : 0.6
-   Cosine Recall : 0.35294117647058826
-   Cosine F-Measure : 0.4444444444444445
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.016
-   Cosine Binary Recall : 0.9411764705882353
-   Cosine Binary F-Measure : 0.03146509341199607
-   Euclidian Binary Precision : 0.016
-   Euclidian Binary Recall : 0.9411764705882353
-   Euclidian Binary F-Measure : 0.03146509341199607
-Query 133 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.2222222222222222
-   Cosine F-Measure : 0.2105263157894737
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.008
-   Cosine Binary Recall : 0.8888888888888888
-   Cosine Binary F-Measure : 0.015857284440039643
-   Euclidian Binary Precision : 0.008
-   Euclidian Binary Recall : 0.8888888888888888
-   Euclidian Binary F-Measure : 0.015857284440039643
-Query 134 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.25
-   Cosine F-Measure : 0.14285714285714288
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
-Query 135 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.2
-   Cosine F-Measure : 0.20000000000000004
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.009
-   Cosine Binary Recall : 0.9
-   Cosine Binary F-Measure : 0.01782178217821782
-   Euclidian Binary Precision : 0.009
-   Euclidian Binary Recall : 0.9
-   Euclidian Binary F-Measure : 0.01782178217821782
-Query 136 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.007960199004975124
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.007960199004975124
-Query 137 : 
    Cosine Precision : 0.3
-   Cosine Recall : 0.5
-   Cosine F-Measure : 0.37499999999999994
+   Cosine Recall : 0.42857142857142855
+   Cosine F-Measure : 0.3529411764705882
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.8333333333333334
-   Cosine Binary F-Measure : 0.009940357852882702
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.8333333333333334
-   Euclidian Binary F-Measure : 0.009940357852882702
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 131 : 
+   Cosine Precision : 0.3
+   Cosine Recall : 0.3
+   Cosine F-Measure : 0.3
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 132 : 
+   Cosine Precision : 0.7
+   Cosine Recall : 0.4117647058823529
+   Cosine F-Measure : 0.5185185185185185
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 133 : 
+   Cosine Precision : 0.0
+   Cosine Recall : 0.0
+   Cosine F-Measure : 0
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 134 : 
+   Cosine Precision : 0.2
+   Cosine Recall : 0.5
+   Cosine F-Measure : 0.28571428571428575
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 135 : 
+   Cosine Precision : 0.4
+   Cosine Recall : 0.4
+   Cosine F-Measure : 0.4000000000000001
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 136 : 
+   Cosine Precision : 0.2
+   Cosine Recall : 0.4
+   Cosine F-Measure : 0.26666666666666666
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 137 : 
+   Cosine Precision : 0.4
+   Cosine Recall : 0.6666666666666666
+   Cosine F-Measure : 0.5
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 138 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -1787,12 +1787,12 @@ Query 138 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 139 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -1800,25 +1800,25 @@ Query 139 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.8333333333333334
-   Cosine Binary F-Measure : 0.009940357852882702
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.8333333333333334
-   Euclidian Binary F-Measure : 0.009940357852882702
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 140 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.125
-   Cosine F-Measure : 0.11111111111111112
+   Cosine Precision : 0.2
+   Cosine Recall : 0.25
+   Cosine F-Measure : 0.22222222222222224
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.011904761904761906
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.011904761904761906
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 141 : 
    Cosine Precision : 0.1
    Cosine Recall : 0.125
@@ -1826,12 +1826,12 @@ Query 141 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.011904761904761906
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.011904761904761906
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 142 : 
    Cosine Precision : 0.1
    Cosine Recall : 0.3333333333333333
@@ -1839,116 +1839,116 @@ Query 142 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.001
-   Cosine Binary Recall : 0.3333333333333333
-   Cosine Binary F-Measure : 0.0019940179461615153
-   Euclidian Binary Precision : 0.001
-   Euclidian Binary Recall : 0.3333333333333333
-   Euclidian Binary F-Measure : 0.0019940179461615153
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 143 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
-Query 144 : 
-   Cosine Precision : 0.3
-   Cosine Recall : 0.375
-   Cosine F-Measure : 0.33333333333333326
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.007
-   Cosine Binary Recall : 0.875
-   Cosine Binary F-Measure : 0.01388888888888889
-   Euclidian Binary Precision : 0.007
-   Euclidian Binary Recall : 0.875
-   Euclidian Binary F-Measure : 0.01388888888888889
-Query 145 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.2222222222222222
-   Cosine F-Measure : 0.2105263157894737
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.6666666666666666
-   Cosine Binary F-Measure : 0.011892963330029734
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.6666666666666666
-   Euclidian Binary F-Measure : 0.011892963330029734
-Query 146 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.25
-   Cosine F-Measure : 0.14285714285714288
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
-Query 147 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.08333333333333333
-   Cosine F-Measure : 0.0909090909090909
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.009
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.017786561264822132
-   Euclidian Binary Precision : 0.009
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.017786561264822132
-Query 148 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.25
-   Cosine F-Measure : 0.22222222222222224
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.007
-   Cosine Binary Recall : 0.875
-   Cosine Binary F-Measure : 0.01388888888888889
-   Euclidian Binary Precision : 0.007
-   Euclidian Binary Recall : 0.875
-   Euclidian Binary F-Measure : 0.01388888888888889
-Query 149 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.07692307692307693
-   Cosine F-Measure : 0.08695652173913043
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.011
-   Cosine Binary Recall : 0.8461538461538461
-   Cosine Binary F-Measure : 0.021717670286278377
-   Euclidian Binary Precision : 0.011
-   Euclidian Binary Recall : 0.8461538461538461
-   Euclidian Binary F-Measure : 0.021717670286278377
-Query 150 : 
    Cosine Precision : 0.2
    Cosine Recall : 0.5
    Cosine F-Measure : 0.28571428571428575
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 144 : 
+   Cosine Precision : 0.6
+   Cosine Recall : 0.75
+   Cosine F-Measure : 0.6666666666666665
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 145 : 
+   Cosine Precision : 0.4
+   Cosine Recall : 0.4444444444444444
+   Cosine F-Measure : 0.4210526315789474
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 146 : 
+   Cosine Precision : 0.3
+   Cosine Recall : 0.75
+   Cosine F-Measure : 0.4285714285714285
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 147 : 
+   Cosine Precision : 0.4
+   Cosine Recall : 0.3333333333333333
+   Cosine F-Measure : 0.3636363636363636
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 148 : 
+   Cosine Precision : 0.3
+   Cosine Recall : 0.375
+   Cosine F-Measure : 0.33333333333333326
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 149 : 
+   Cosine Precision : 0.3
+   Cosine Recall : 0.23076923076923078
+   Cosine F-Measure : 0.2608695652173913
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 150 : 
+   Cosine Precision : 0.3
+   Cosine Recall : 0.75
+   Cosine F-Measure : 0.4285714285714285
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 151 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -1956,64 +1956,64 @@ Query 151 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.8571428571428571
-   Cosine Binary F-Measure : 0.011916583912611719
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.8571428571428571
-   Euclidian Binary F-Measure : 0.011916583912611719
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 152 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.1
+   Cosine Recall : 0.125
+   Cosine F-Measure : 0.11111111111111112
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.011904761904761906
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.011904761904761906
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 153 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.2222222222222222
-   Cosine F-Measure : 0.2105263157894737
+   Cosine Precision : 0.4
+   Cosine Recall : 0.4444444444444444
+   Cosine F-Measure : 0.4210526315789474
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.007
-   Cosine Binary Recall : 0.7777777777777778
-   Cosine Binary F-Measure : 0.013875123885034688
-   Euclidian Binary Precision : 0.007
-   Euclidian Binary Recall : 0.7777777777777778
-   Euclidian Binary F-Measure : 0.013875123885034688
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 154 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.002
-   Cosine Binary Recall : 0.5
-   Cosine Binary F-Measure : 0.00398406374501992
-   Euclidian Binary Precision : 0.002
-   Euclidian Binary Recall : 0.5
-   Euclidian Binary F-Measure : 0.00398406374501992
-Query 155 : 
    Cosine Precision : 0.2
-   Cosine Recall : 0.25
-   Cosine F-Measure : 0.22222222222222224
+   Cosine Recall : 0.5
+   Cosine F-Measure : 0.28571428571428575
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.007
-   Cosine Binary Recall : 0.875
-   Cosine Binary F-Measure : 0.01388888888888889
-   Euclidian Binary Precision : 0.007
-   Euclidian Binary Recall : 0.875
-   Euclidian Binary F-Measure : 0.01388888888888889
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 155 : 
+   Cosine Precision : 0.3
+   Cosine Recall : 0.375
+   Cosine F-Measure : 0.33333333333333326
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 156 : 
    Cosine Precision : 0.1
    Cosine Recall : 0.0625
@@ -2021,25 +2021,25 @@ Query 156 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.007
-   Cosine Binary Recall : 0.4375
-   Cosine Binary F-Measure : 0.013779527559055118
-   Euclidian Binary Precision : 0.007
-   Euclidian Binary Recall : 0.4375
-   Euclidian Binary F-Measure : 0.013779527559055118
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 157 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.024390243902439025
-   Cosine F-Measure : 0.03921568627450981
+   Cosine Precision : 0.6
+   Cosine Recall : 0.14634146341463414
+   Cosine F-Measure : 0.23529411764705882
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.037
-   Cosine Binary Recall : 0.9024390243902439
-   Cosine Binary F-Measure : 0.07108549471661864
-   Euclidian Binary Precision : 0.037
-   Euclidian Binary Recall : 0.9024390243902439
-   Euclidian Binary F-Measure : 0.07108549471661864
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 158 : 
    Cosine Precision : 0.2
    Cosine Recall : 0.2
@@ -2047,25 +2047,25 @@ Query 158 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.008
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.015841584158415842
-   Euclidian Binary Precision : 0.008
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.015841584158415842
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 159 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.2
+   Cosine Recall : 0.2
+   Cosine F-Measure : 0.20000000000000004
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.009
-   Cosine Binary Recall : 0.9
-   Cosine Binary F-Measure : 0.01782178217821782
-   Euclidian Binary Precision : 0.009
-   Euclidian Binary Recall : 0.9
-   Euclidian Binary F-Measure : 0.01782178217821782
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 160 : 
    Cosine Precision : 0.1
    Cosine Recall : 0.14285714285714285
@@ -2073,12 +2073,12 @@ Query 160 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.8571428571428571
-   Cosine Binary F-Measure : 0.011916583912611719
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.8571428571428571
-   Euclidian Binary F-Measure : 0.011916583912611719
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 161 : 
    Cosine Precision : 0.2
    Cosine Recall : 0.25
@@ -2086,12 +2086,12 @@ Query 161 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.007
-   Cosine Binary Recall : 0.875
-   Cosine Binary F-Measure : 0.01388888888888889
-   Euclidian Binary Precision : 0.007
-   Euclidian Binary Recall : 0.875
-   Euclidian Binary F-Measure : 0.01388888888888889
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 162 : 
    Cosine Precision : 0.1
    Cosine Recall : 0.1
@@ -2099,64 +2099,64 @@ Query 162 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.009
-   Cosine Binary Recall : 0.9
-   Cosine Binary F-Measure : 0.01782178217821782
-   Euclidian Binary Precision : 0.009
-   Euclidian Binary Recall : 0.9
-   Euclidian Binary F-Measure : 0.01782178217821782
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 163 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.2
-   Cosine F-Measure : 0.13333333333333333
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.007960199004975124
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.007960199004975124
-Query 164 : 
    Cosine Precision : 0.2
-   Cosine Recall : 0.2
-   Cosine F-Measure : 0.20000000000000004
-   Euclidian Precision : 0.1
-   Euclidian Recall : 0.1
-   Euclidian F-Measure : 0.10000000000000002
-   Cosine Binary Precision : 0.009
-   Cosine Binary Recall : 0.9
-   Cosine Binary F-Measure : 0.01782178217821782
-   Euclidian Binary Precision : 0.009
-   Euclidian Binary Recall : 0.9
-   Euclidian Binary F-Measure : 0.01782178217821782
+   Cosine Recall : 0.4
+   Cosine F-Measure : 0.26666666666666666
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 164 : 
+   Cosine Precision : 0.7
+   Cosine Recall : 0.7
+   Cosine F-Measure : 0.7
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 165 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.3
+   Cosine Recall : 0.75
+   Cosine F-Measure : 0.4285714285714285
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 166 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.1
+   Cosine Recall : 0.1
+   Cosine F-Measure : 0.10000000000000002
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.009
-   Cosine Binary Recall : 0.9
-   Cosine Binary F-Measure : 0.01782178217821782
-   Euclidian Binary Precision : 0.009
-   Euclidian Binary Recall : 0.9
-   Euclidian Binary F-Measure : 0.01782178217821782
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 167 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -2164,64 +2164,64 @@ Query 167 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.002
-   Cosine Binary Recall : 0.5
-   Cosine Binary F-Measure : 0.00398406374501992
-   Euclidian Binary Precision : 0.002
-   Euclidian Binary Recall : 0.5
-   Euclidian Binary F-Measure : 0.00398406374501992
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 168 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.2
+   Cosine Recall : 0.5
+   Cosine F-Measure : 0.28571428571428575
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 169 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.16666666666666666
-   Cosine F-Measure : 0.125
+   Cosine Precision : 0.3
+   Cosine Recall : 0.5
+   Cosine F-Measure : 0.37499999999999994
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.8333333333333334
-   Cosine Binary F-Measure : 0.009940357852882702
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.8333333333333334
-   Euclidian Binary F-Measure : 0.009940357852882702
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 170 : 
-   Cosine Precision : 0.3
-   Cosine Recall : 0.375
-   Cosine F-Measure : 0.33333333333333326
+   Cosine Precision : 0.5
+   Cosine Recall : 0.625
+   Cosine F-Measure : 0.5555555555555556
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.011904761904761906
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.011904761904761906
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 171 : 
-   Cosine Precision : 0.3
-   Cosine Recall : 0.6
-   Cosine F-Measure : 0.4
+   Cosine Precision : 0.4
+   Cosine Recall : 0.8
+   Cosine F-Measure : 0.5333333333333333
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.007960199004975124
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.007960199004975124
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 172 : 
    Cosine Precision : 0.5
    Cosine Recall : 0.8333333333333334
@@ -2229,51 +2229,51 @@ Query 172 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.8333333333333334
-   Cosine Binary F-Measure : 0.009940357852882702
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.8333333333333334
-   Euclidian Binary F-Measure : 0.009940357852882702
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 173 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.25
-   Cosine F-Measure : 0.14285714285714288
+   Cosine Precision : 0.3
+   Cosine Recall : 0.75
+   Cosine F-Measure : 0.4285714285714285
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 174 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.14285714285714285
-   Cosine F-Measure : 0.11764705882352941
+   Cosine Precision : 0.2
+   Cosine Recall : 0.2857142857142857
+   Cosine F-Measure : 0.23529411764705882
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.8571428571428571
-   Cosine Binary F-Measure : 0.011916583912611719
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.8571428571428571
-   Euclidian Binary F-Measure : 0.011916583912611719
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 175 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.14285714285714285
-   Cosine F-Measure : 0.11764705882352941
+   Cosine Precision : 0.2
+   Cosine Recall : 0.2857142857142857
+   Cosine F-Measure : 0.23529411764705882
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.7142857142857143
-   Cosine Binary F-Measure : 0.009930486593843098
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.7142857142857143
-   Euclidian Binary F-Measure : 0.009930486593843098
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 176 : 
    Cosine Precision : 0.2
    Cosine Recall : 0.2222222222222222
@@ -2281,25 +2281,25 @@ Query 176 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.008
-   Cosine Binary Recall : 0.8888888888888888
-   Cosine Binary F-Measure : 0.015857284440039643
-   Euclidian Binary Precision : 0.008
-   Euclidian Binary Recall : 0.8888888888888888
-   Euclidian Binary F-Measure : 0.015857284440039643
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 177 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.3
+   Cosine Recall : 0.42857142857142855
+   Cosine F-Measure : 0.3529411764705882
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.7142857142857143
-   Cosine Binary F-Measure : 0.009930486593843098
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.7142857142857143
-   Euclidian Binary F-Measure : 0.009930486593843098
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 178 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -2307,51 +2307,51 @@ Query 178 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.001
-   Cosine Binary Recall : 0.16666666666666666
-   Cosine Binary F-Measure : 0.001988071570576541
-   Euclidian Binary Precision : 0.001
-   Euclidian Binary Recall : 0.16666666666666666
-   Euclidian Binary F-Measure : 0.001988071570576541
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 179 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.16666666666666666
-   Cosine F-Measure : 0.125
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.8333333333333334
-   Cosine Binary F-Measure : 0.009940357852882702
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.8333333333333334
-   Euclidian Binary F-Measure : 0.009940357852882702
-Query 180 : 
    Cosine Precision : 0.3
-   Cosine Recall : 0.3333333333333333
-   Cosine F-Measure : 0.3157894736842105
+   Cosine Recall : 0.5
+   Cosine F-Measure : 0.37499999999999994
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.007
-   Cosine Binary Recall : 0.7777777777777778
-   Cosine Binary F-Measure : 0.013875123885034688
-   Euclidian Binary Precision : 0.007
-   Euclidian Binary Recall : 0.7777777777777778
-   Euclidian Binary F-Measure : 0.013875123885034688
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 180 : 
+   Cosine Precision : 0.4
+   Cosine Recall : 0.4444444444444444
+   Cosine F-Measure : 0.4210526315789474
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 181 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.2857142857142857
-   Cosine F-Measure : 0.23529411764705882
+   Cosine Precision : 0.1
+   Cosine Recall : 0.14285714285714285
+   Cosine F-Measure : 0.11764705882352941
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.8571428571428571
-   Cosine Binary F-Measure : 0.011916583912611719
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.8571428571428571
-   Euclidian Binary F-Measure : 0.011916583912611719
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 182 : 
    Cosine Precision : 0.2
    Cosine Recall : 0.5
@@ -2359,38 +2359,38 @@ Query 182 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 183 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
    Cosine F-Measure : 0
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.012
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.023645320197044337
-   Euclidian Binary Precision : 0.012
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.023645320197044337
+   Euclidian Precision : 0.1
+   Euclidian Recall : 0.06666666666666667
+   Euclidian F-Measure : 0.08
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 184 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.1
+   Cosine Recall : 0.1111111111111111
+   Cosine F-Measure : 0.10526315789473685
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.6666666666666666
-   Cosine Binary F-Measure : 0.011892963330029734
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.6666666666666666
-   Euclidian Binary F-Measure : 0.011892963330029734
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 185 : 
    Cosine Precision : 0.7
    Cosine Recall : 0.6363636363636364
@@ -2398,25 +2398,25 @@ Query 185 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.01
-   Cosine Binary Recall : 0.9090909090909091
-   Cosine Binary F-Measure : 0.019782393669634024
-   Euclidian Binary Precision : 0.01
-   Euclidian Binary Recall : 0.9090909090909091
-   Euclidian Binary F-Measure : 0.019782393669634024
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 186 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.1111111111111111
-   Cosine F-Measure : 0.14285714285714285
+   Cosine Precision : 0.4
+   Cosine Recall : 0.2222222222222222
+   Cosine F-Measure : 0.2857142857142857
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.015
-   Cosine Binary Recall : 0.8333333333333334
-   Cosine Binary F-Measure : 0.029469548133595286
-   Euclidian Binary Precision : 0.015
-   Euclidian Binary Recall : 0.8333333333333334
-   Euclidian Binary F-Measure : 0.029469548133595286
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 187 : 
    Cosine Precision : 0.1
    Cosine Recall : 0.125
@@ -2424,103 +2424,103 @@ Query 187 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.011904761904761906
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.011904761904761906
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 188 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.15384615384615385
-   Cosine F-Measure : 0.17391304347826086
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.01
-   Cosine Binary Recall : 0.7692307692307693
-   Cosine Binary F-Measure : 0.019743336623889437
-   Euclidian Binary Precision : 0.01
-   Euclidian Binary Recall : 0.7692307692307693
-   Euclidian Binary F-Measure : 0.019743336623889437
-Query 189 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.01
-   Cosine Binary Recall : 0.9090909090909091
-   Cosine Binary F-Measure : 0.019782393669634024
-   Euclidian Binary Precision : 0.01
-   Euclidian Binary Recall : 0.9090909090909091
-   Euclidian Binary F-Measure : 0.019782393669634024
-Query 190 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.2857142857142857
-   Cosine F-Measure : 0.23529411764705882
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.7142857142857143
-   Cosine Binary F-Measure : 0.009930486593843098
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.7142857142857143
-   Euclidian Binary F-Measure : 0.009930486593843098
-Query 191 : 
-   Cosine Precision : 0.3
-   Cosine Recall : 0.2
-   Cosine F-Measure : 0.24
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.012
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.023645320197044337
-   Euclidian Binary Precision : 0.012
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.023645320197044337
-Query 192 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.16666666666666666
-   Cosine F-Measure : 0.125
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.8333333333333334
-   Cosine Binary F-Measure : 0.009940357852882702
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.8333333333333334
-   Euclidian Binary F-Measure : 0.009940357852882702
-Query 193 : 
    Cosine Precision : 0.4
-   Cosine Recall : 0.36363636363636365
-   Cosine F-Measure : 0.380952380952381
+   Cosine Recall : 0.3076923076923077
+   Cosine F-Measure : 0.34782608695652173
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.01
-   Cosine Binary Recall : 0.9090909090909091
-   Cosine Binary F-Measure : 0.019782393669634024
-   Euclidian Binary Precision : 0.01
-   Euclidian Binary Recall : 0.9090909090909091
-   Euclidian Binary F-Measure : 0.019782393669634024
-Query 194 : 
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 189 : 
    Cosine Precision : 0.3
-   Cosine Recall : 0.375
-   Cosine F-Measure : 0.33333333333333326
+   Cosine Recall : 0.2727272727272727
+   Cosine F-Measure : 0.28571428571428564
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.011904761904761906
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.011904761904761906
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 190 : 
+   Cosine Precision : 0.3
+   Cosine Recall : 0.42857142857142855
+   Cosine F-Measure : 0.3529411764705882
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 191 : 
+   Cosine Precision : 0.8
+   Cosine Recall : 0.5333333333333333
+   Cosine F-Measure : 0.64
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 192 : 
+   Cosine Precision : 0.3
+   Cosine Recall : 0.5
+   Cosine F-Measure : 0.37499999999999994
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 193 : 
+   Cosine Precision : 0.7
+   Cosine Recall : 0.6363636363636364
+   Cosine F-Measure : 0.6666666666666666
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 194 : 
+   Cosine Precision : 0.4
+   Cosine Recall : 0.5
+   Cosine F-Measure : 0.4444444444444445
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 195 : 
    Cosine Precision : 0.2
    Cosine Recall : 0.4
@@ -2528,129 +2528,129 @@ Query 195 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.6
-   Cosine Binary F-Measure : 0.005970149253731343
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.6
-   Euclidian Binary F-Measure : 0.005970149253731343
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 196 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
    Cosine F-Measure : 0
+   Euclidian Precision : 0.1
+   Euclidian Recall : 0.07142857142857142
+   Euclidian F-Measure : 0.08333333333333333
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 197 : 
+   Cosine Precision : 0.4
+   Cosine Recall : 0.8
+   Cosine F-Measure : 0.5333333333333333
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.007
-   Cosine Binary Recall : 0.5
-   Cosine Binary F-Measure : 0.013806706114398421
-   Euclidian Binary Precision : 0.007
-   Euclidian Binary Recall : 0.5
-   Euclidian Binary F-Measure : 0.013806706114398421
-Query 197 : 
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 198 : 
+   Cosine Precision : 0.1
+   Cosine Recall : 0.16666666666666666
+   Cosine F-Measure : 0.125
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 199 : 
+   Cosine Precision : 0.2
+   Cosine Recall : 0.2
+   Cosine F-Measure : 0.20000000000000004
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 200 : 
    Cosine Precision : 0.2
    Cosine Recall : 0.4
    Cosine F-Measure : 0.26666666666666666
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.007960199004975124
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.007960199004975124
-Query 198 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.6666666666666666
-   Cosine Binary F-Measure : 0.007952286282306164
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.6666666666666666
-   Euclidian Binary F-Measure : 0.007952286282306164
-Query 199 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.1
-   Cosine F-Measure : 0.10000000000000002
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.006
-   Cosine Binary Recall : 0.6
-   Cosine Binary F-Measure : 0.011881188118811881
-   Euclidian Binary Precision : 0.006
-   Euclidian Binary Recall : 0.6
-   Euclidian Binary F-Measure : 0.011881188118811881
-Query 200 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.6
-   Cosine Binary F-Measure : 0.005970149253731343
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.6
-   Euclidian Binary F-Measure : 0.005970149253731343
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 201 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.05555555555555555
-   Cosine F-Measure : 0.07142857142857142
+   Cosine Precision : 0.4
+   Cosine Recall : 0.2222222222222222
+   Cosine F-Measure : 0.2857142857142857
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.016
-   Cosine Binary Recall : 0.8888888888888888
-   Cosine Binary F-Measure : 0.03143418467583497
-   Euclidian Binary Precision : 0.016
-   Euclidian Binary Recall : 0.8888888888888888
-   Euclidian Binary F-Measure : 0.03143418467583497
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 202 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.0625
-   Cosine F-Measure : 0.07692307692307693
+   Cosine Precision : 0.2
+   Cosine Recall : 0.125
+   Cosine F-Measure : 0.15384615384615385
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.013
-   Cosine Binary Recall : 0.8125
-   Cosine Binary F-Measure : 0.02559055118110236
-   Euclidian Binary Precision : 0.013
-   Euclidian Binary Recall : 0.8125
-   Euclidian Binary F-Measure : 0.02559055118110236
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 203 : 
+   Cosine Precision : 0.2
+   Cosine Recall : 0.125
+   Cosine F-Measure : 0.15384615384615385
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 204 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
    Cosine F-Measure : 0
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.011
-   Cosine Binary Recall : 0.6875
-   Cosine Binary F-Measure : 0.021653543307086614
-   Euclidian Binary Precision : 0.011
-   Euclidian Binary Recall : 0.6875
-   Euclidian Binary F-Measure : 0.021653543307086614
-Query 204 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.0625
-   Cosine F-Measure : 0.07692307692307693
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.013
-   Cosine Binary Recall : 0.8125
-   Cosine Binary F-Measure : 0.02559055118110236
-   Euclidian Binary Precision : 0.013
-   Euclidian Binary Recall : 0.8125
-   Euclidian Binary F-Measure : 0.02559055118110236
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 205 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -2658,25 +2658,25 @@ Query 205 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 206 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.2
-   Cosine F-Measure : 0.13333333333333333
+   Cosine Precision : 0.3
+   Cosine Recall : 0.6
+   Cosine F-Measure : 0.4
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.6
-   Cosine Binary F-Measure : 0.005970149253731343
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.6
-   Euclidian Binary F-Measure : 0.005970149253731343
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 207 : 
    Cosine Precision : 0.3
    Cosine Recall : 0.42857142857142855
@@ -2684,38 +2684,38 @@ Query 207 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.7142857142857143
-   Cosine Binary F-Measure : 0.009930486593843098
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.7142857142857143
-   Euclidian Binary F-Measure : 0.009930486593843098
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 208 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.3
+   Cosine Recall : 0.375
+   Cosine F-Measure : 0.33333333333333326
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.007
-   Cosine Binary Recall : 0.875
-   Cosine Binary F-Measure : 0.01388888888888889
-   Euclidian Binary Precision : 0.007
-   Euclidian Binary Recall : 0.875
-   Euclidian Binary F-Measure : 0.01388888888888889
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 209 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.1
+   Cosine Recall : 0.07142857142857142
+   Cosine F-Measure : 0.08333333333333333
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.01
-   Cosine Binary Recall : 0.7142857142857143
-   Cosine Binary F-Measure : 0.01972386587771203
-   Euclidian Binary Precision : 0.01
-   Euclidian Binary Recall : 0.7142857142857143
-   Euclidian Binary F-Measure : 0.01972386587771203
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 210 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -2723,51 +2723,51 @@ Query 210 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.625
-   Cosine Binary F-Measure : 0.009920634920634922
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.625
-   Euclidian Binary F-Measure : 0.009920634920634922
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 211 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.07692307692307693
-   Cosine F-Measure : 0.08695652173913043
+   Cosine Precision : 0.0
+   Cosine Recall : 0.0
+   Cosine F-Measure : 0
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.011
-   Cosine Binary Recall : 0.8461538461538461
-   Cosine Binary F-Measure : 0.021717670286278377
-   Euclidian Binary Precision : 0.011
-   Euclidian Binary Recall : 0.8461538461538461
-   Euclidian Binary F-Measure : 0.021717670286278377
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 212 : 
-   Cosine Precision : 0.3
-   Cosine Recall : 0.1875
-   Cosine F-Measure : 0.23076923076923075
+   Cosine Precision : 0.6
+   Cosine Recall : 0.375
+   Cosine F-Measure : 0.4615384615384615
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.015
-   Cosine Binary Recall : 0.9375
-   Cosine Binary F-Measure : 0.029527559055118106
-   Euclidian Binary Precision : 0.015
-   Euclidian Binary Recall : 0.9375
-   Euclidian Binary F-Measure : 0.029527559055118106
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 213 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.15384615384615385
-   Cosine F-Measure : 0.17391304347826086
+   Cosine Precision : 0.6
+   Cosine Recall : 0.46153846153846156
+   Cosine F-Measure : 0.5217391304347826
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.008
-   Cosine Binary Recall : 0.6153846153846154
-   Cosine Binary F-Measure : 0.01579466929911155
-   Euclidian Binary Precision : 0.008
-   Euclidian Binary Recall : 0.6153846153846154
-   Euclidian Binary F-Measure : 0.01579466929911155
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 214 : 
    Cosine Precision : 0.2
    Cosine Recall : 0.3333333333333333
@@ -2775,25 +2775,25 @@ Query 214 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.004
-   Cosine Binary Recall : 0.6666666666666666
-   Cosine Binary F-Measure : 0.007952286282306164
-   Euclidian Binary Precision : 0.004
-   Euclidian Binary Recall : 0.6666666666666666
-   Euclidian Binary F-Measure : 0.007952286282306164
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 215 : 
-   Cosine Precision : 0.0
-   Cosine Recall : 0.0
-   Cosine F-Measure : 0
+   Cosine Precision : 0.1
+   Cosine Recall : 0.25
+   Cosine F-Measure : 0.14285714285714288
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.003
-   Cosine Binary Recall : 0.75
-   Cosine Binary F-Measure : 0.005976095617529881
-   Euclidian Binary Precision : 0.003
-   Euclidian Binary Recall : 0.75
-   Euclidian Binary F-Measure : 0.005976095617529881
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 216 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -2801,12 +2801,12 @@ Query 216 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.002
-   Cosine Binary Recall : 0.6666666666666666
-   Cosine Binary F-Measure : 0.003988035892323031
-   Euclidian Binary Precision : 0.002
-   Euclidian Binary Recall : 0.6666666666666666
-   Euclidian Binary F-Measure : 0.003988035892323031
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 217 : 
    Cosine Precision : 0.0
    Cosine Recall : 0.0
@@ -2814,38 +2814,38 @@ Query 217 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.014
-   Cosine Binary Recall : 0.8235294117647058
-   Cosine Binary F-Measure : 0.02753195673549656
-   Euclidian Binary Precision : 0.014
-   Euclidian Binary Recall : 0.8235294117647058
-   Euclidian Binary F-Measure : 0.02753195673549656
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 218 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.058823529411764705
-   Cosine F-Measure : 0.07407407407407408
+   Cosine Precision : 0.4
+   Cosine Recall : 0.23529411764705882
+   Cosine F-Measure : 0.29629629629629634
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.016
-   Cosine Binary Recall : 0.9411764705882353
-   Cosine Binary F-Measure : 0.03146509341199607
-   Euclidian Binary Precision : 0.016
-   Euclidian Binary Recall : 0.9411764705882353
-   Euclidian Binary F-Measure : 0.03146509341199607
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 219 : 
-   Cosine Precision : 0.2
-   Cosine Recall : 0.1
-   Cosine F-Measure : 0.13333333333333333
+   Cosine Precision : 0.1
+   Cosine Recall : 0.05
+   Cosine F-Measure : 0.06666666666666667
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.016
-   Cosine Binary Recall : 0.8
-   Cosine Binary F-Measure : 0.03137254901960784
-   Euclidian Binary Precision : 0.016
-   Euclidian Binary Recall : 0.8
-   Euclidian Binary F-Measure : 0.03137254901960784
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 220 : 
    Cosine Precision : 0.1
    Cosine Recall : 0.047619047619047616
@@ -2853,25 +2853,25 @@ Query 220 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.017
-   Cosine Binary Recall : 0.8095238095238095
-   Cosine Binary F-Measure : 0.03330068560235064
-   Euclidian Binary Precision : 0.017
-   Euclidian Binary Recall : 0.8095238095238095
-   Euclidian Binary F-Measure : 0.03330068560235064
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 221 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.05
-   Cosine F-Measure : 0.06666666666666667
+   Cosine Precision : 0.2
+   Cosine Recall : 0.1
+   Cosine F-Measure : 0.13333333333333333
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.017
-   Cosine Binary Recall : 0.85
-   Cosine Binary F-Measure : 0.03333333333333333
-   Euclidian Binary Precision : 0.017
-   Euclidian Binary Recall : 0.85
-   Euclidian Binary F-Measure : 0.03333333333333333
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 222 : 
    Cosine Precision : 0.3
    Cosine Recall : 0.2727272727272727
@@ -2879,48 +2879,48 @@ Query 222 :
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.009
-   Cosine Binary Recall : 0.8181818181818182
-   Cosine Binary F-Measure : 0.017804154302670624
-   Euclidian Binary Precision : 0.009
-   Euclidian Binary Recall : 0.8181818181818182
-   Euclidian Binary F-Measure : 0.017804154302670624
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
 Query 223 : 
-   Cosine Precision : 0.1
-   Cosine Recall : 0.16666666666666666
-   Cosine F-Measure : 0.125
-   Euclidian Precision : 0.0
-   Euclidian Recall : 0.0
-   Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.005
-   Cosine Binary Recall : 0.8333333333333334
-   Cosine Binary F-Measure : 0.009940357852882702
-   Euclidian Binary Precision : 0.005
-   Euclidian Binary Recall : 0.8333333333333334
-   Euclidian Binary F-Measure : 0.009940357852882702
-Query 224 : 
-   Cosine Precision : 0.3
-   Cosine Recall : 0.3
-   Cosine F-Measure : 0.3
-   Euclidian Precision : 0.1
-   Euclidian Recall : 0.1
-   Euclidian F-Measure : 0.10000000000000002
-   Cosine Binary Precision : 0.009
-   Cosine Binary Recall : 0.9
-   Cosine Binary F-Measure : 0.01782178217821782
-   Euclidian Binary Precision : 0.009
-   Euclidian Binary Recall : 0.9
-   Euclidian Binary F-Measure : 0.01782178217821782
-Query 225 : 
    Cosine Precision : 0.2
-   Cosine Recall : 0.07692307692307693
-   Cosine F-Measure : 0.1111111111111111
+   Cosine Recall : 0.3333333333333333
+   Cosine F-Measure : 0.25
    Euclidian Precision : 0.0
    Euclidian Recall : 0.0
    Euclidian F-Measure : 0
-   Cosine Binary Precision : 0.023
-   Cosine Binary Recall : 0.8846153846153846
-   Cosine Binary F-Measure : 0.04483430799220273
-   Euclidian Binary Precision : 0.023
-   Euclidian Binary Recall : 0.8846153846153846
-   Euclidian Binary F-Measure : 0.04483430799220273
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 224 : 
+   Cosine Precision : 0.4
+   Cosine Recall : 0.4
+   Cosine F-Measure : 0.4000000000000001
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0
+Query 225 : 
+   Cosine Precision : 0.3
+   Cosine Recall : 0.11538461538461539
+   Cosine F-Measure : 0.16666666666666669
+   Euclidian Precision : 0.0
+   Euclidian Recall : 0.0
+   Euclidian F-Measure : 0
+   Cosine Binary Precision : 0.0
+   Cosine Binary Recall : 0.0
+   Cosine Binary F-Measure : 0
+   Euclidian Binary Precision : 0.0
+   Euclidian Binary Recall : 0.0
+   Euclidian Binary F-Measure : 0

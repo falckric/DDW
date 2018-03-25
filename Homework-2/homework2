@@ -3,3 +3,9 @@ highest recall. When I used binary representation I didnt see any difference in
 Euclidian distance and Cosine similarity. When I did not use Binary representation
 I got quite bad results using euclidian distance, but i got better precision when
 using cosine similarity.
+
+I also noticed that the TF-IDF usually had better results.
+
+link to all code:
+
+https://github.com/falckric/DDW
