@@ -1,5 +1,7 @@
 import nltk
 import wikipedia
+from collections import Counter
+from string import punctuation
 
 text = None
 
@@ -14,14 +16,17 @@ sentences = len(nltk.sent_tokenize(text))
 print(" Number of sentences : ")
 print(sentences)
 
-text_pos = nltk.pos_tag(words)
+nopunc = [token for token in words if token not in punctuation]
+
+text_pos = nltk.pos_tag(nopunc)
 grammar = "NP: {<DT>?<JJ>*<NN|NNS>}"
 cp = nltk.RegexpParser(grammar)
 result = cp.parse(text_pos)
 #print(result)
 #result.draw()
 print("\n POS tagged :")
-print(text_pos)
+pos_c = Counter(text_pos)
+print(pos_c.most_common()[:10])
 
 # normal NER
 ne_chunked = nltk.ne_chunk(text_pos, binary=True)
@@ -38,7 +43,8 @@ def extract_entities(ne_chunked):
 
 extracted = extract_entities(ne_chunked)
 print("\n Normal ne_chuncked : ")
-print(extracted)
+extr_Counter = Counter(extracted)
+print(extr_Counter.most_common()[:10])
 
 # Custom NER
 entity = []
@@ -58,7 +64,8 @@ for t in text_pos:
 		entity = []
 
 print("\n Custom classifier :")
-print(custom_data)
+cust_c = Counter(custom_data)
+print(cust_c.most_common()[:10])
 
 print("\n   ---   Wikipedia    ---\n")
 
