@@ -2,6 +2,7 @@ import networkx as nx
 import nltk
 import matplotlib.pyplot as plt
 from networkx.drawing.nx_agraph import graphviz_layout
+from collections import Counter
 
 def read(file):
 	text = None
@@ -53,19 +54,42 @@ def task():
 	print("Number of nodes : \n", num_nodes)
 	print("Number of edges : \n", num_edges)
 	print("Density of graph : \n", density)
-	# TODO : Identufy components and eval connectivity
+	# TODO : eval connectivity
 	print("Components of graph : \n", [c for c in nx.connected_components(G)])
 
 	# Metrics
-	# TODO : Identify key player (centrality measure as degree, closeness, betweenness, eigenvector)
-	# TODO : Identify clusters
+	centralities = [
+		nx.degree_centrality,
+		nx.closeness_centrality,
+		nx.betweenness_centrality,
+		nx.eigenvector_centrality
+	]
+	print(" Centralities / Key Players")
+	for centralitiy in centralities:
+		i = centralitiy(G)
+		top_counted = Counter(i).most_common()
+		print(centralitiy.__name__)
+		print(top_counted[:10])
+
+	communities = {node: cid + 1 for cid, community in enumerate(nx.algorithms.community.k_clique_communities(G, 3)) for
+				   node in community}
+	com = {}
+	for k, v in communities.items():
+		if v not in com.keys():
+			com[v] = k
+		else:
+			t = com[v]
+			com[v] = " ".join([t, k])
+	print(" Communities :")
+	for k, v in com.items():
+		print(k, " : ", v)
 
 	# Visualisation
 	# TODO : Visualise key players
 	# TODO : Visualise clusters / comunities
 	# TODO : Visualise importance of edges (weight)
 
-	# visualise
+	'''# visualise
 	plt.figure(figsize=(20, 10))
 	pos = graphviz_layout(G, prog="fdp") # graphviz_layout(G, prog="fdp")
 	nx.draw(G, pos,
@@ -78,6 +102,6 @@ def task():
 
 	# write to GEXF
 	nx.write_gexf(G, "export.gexf")
-
+'''
 if __name__ == "__main__":
 	task()

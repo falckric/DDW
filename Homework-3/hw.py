@@ -29,7 +29,7 @@ pos_c = Counter(text_pos)
 print(pos_c.most_common()[:10])
 
 # normal NER
-ne_chunked = nltk.ne_chunk(text_pos, binary=True)
+ne_chunked = nltk.ne_chunk(text_pos, binary=False)
 def extract_entities(ne_chunked):
 	data = {}
 	for e in ne_chunked:
